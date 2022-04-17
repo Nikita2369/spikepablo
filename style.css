@@ -1,0 +1,16 @@
+button{
+	background-color: #93CA3C;
+	width:140px;
+	height: 100px;
+	font-family: impact;
+	font-size: 25px;
+}
+.runButton{
+	position: absolute;
+}
+
+p{
+	font-family: impact;
+	font-size: 25px;
+	margin: 20px 200px;
+}
