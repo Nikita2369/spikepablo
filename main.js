@@ -16,5 +16,5 @@ function correctMessenge(){
 }
 
 function badMessenge(){
-	alert('не верю')
+	alert('Пиздишь чурка')
 }
