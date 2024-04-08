@@ -12,9 +12,9 @@ function run() {
 }
 
 function correctMessenge(){
-	alert('кто бы сомневался')
+	alert('верно')
 }
 
 function badMessenge(){
-	alert('Пиздишь чурка')
+	alert('нитро пидор')
 }
